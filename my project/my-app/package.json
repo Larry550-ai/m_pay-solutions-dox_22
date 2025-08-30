@@ -1,0 +1,14 @@
+{
+  "name": "my app",
+  "version": "1.0.0",
+  "description": "A peer to peer transaction app",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}

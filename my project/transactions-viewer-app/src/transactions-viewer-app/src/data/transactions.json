@@ -1,0 +1,37 @@
+[
+    {
+        "amount": 100,
+        "sender": "Alice",
+        "receiver": "Bob",
+        "date": "2023-01-01",
+        "type": "transfer"
+    },
+    {
+        "amount": 250,
+        "sender": "Charlie",
+        "receiver": "David",
+        "date": "2023-01-02",
+        "type": "transfer"
+    },
+    {
+        "amount": 75,
+        "sender": "Eve",
+        "receiver": "Frank",
+        "date": "2023-01-03",
+        "type": "transfer"
+    },
+    {
+        "amount": 200,
+        "sender": "Grace",
+        "receiver": "Heidi",
+        "date": "2023-01-04",
+        "type": "transfer"
+    },
+    {
+        "amount": 150,
+        "sender": "Ivan",
+        "receiver": "Judy",
+        "date": "2023-01-05",
+        "type": "transfer"
+    }
+]

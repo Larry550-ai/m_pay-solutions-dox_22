@@ -1,0 +1,16 @@
+import React from 'react';
+
+const ConfirmationMessage = ({ message, onClose }) => (
+  <div style={{
+    background: '#e0ffe0',
+    border: '1px solid #4caf50',
+    padding: '16px',
+    margin: '16px 0',
+    borderRadius: '8px'
+  }}>
+    <p>{message}</p>
+    <button onClick={onClose}>Close</button>
+  </div>
+);
+
+export default ConfirmationMessage;

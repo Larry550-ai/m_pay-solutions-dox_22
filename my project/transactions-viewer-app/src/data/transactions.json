@@ -1,0 +1,37 @@
+[
+    {
+        "amount": 100.00,
+        "sender": "Alice",
+        "receiver": "Bob",
+        "date": "2023-01-15",
+        "type": "transfer"
+    },
+    {
+        "amount": 250.50,
+        "sender": "Charlie",
+        "receiver": "David",
+        "date": "2023-02-20",
+        "type": "payment"
+    },
+    {
+        "amount": 75.00,
+        "sender": "Eve",
+        "receiver": "Frank",
+        "date": "2023-03-10",
+        "type": "refund"
+    },
+    {
+        "amount": 300.00,
+        "sender": "Grace",
+        "receiver": "Heidi",
+        "date": "2023-04-05",
+        "type": "transfer"
+    },
+    {
+        "amount": 150.25,
+        "sender": "Ivan",
+        "receiver": "Judy",
+        "date": "2023-05-12",
+        "type": "payment"
+    }
+]
